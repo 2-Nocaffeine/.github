@@ -4,7 +4,10 @@
 <img src="https://github.com/2-Nocaffeine/Backend/assets/83085413/4986cd53-53e0-48a4-9d21-8acfa3f795b6" height=500 width=245>
     <br>
     <img src="https://media.discordapp.net/attachments/1209744304000737312/1229073868283580487/image.png?ex=662e5b3d&is=661be63d&hm=72482ed9f10e8414c5d6fb10c8fa452c005216ee6e07113b8ee18503f1c3ad5d&=&format=webp&quality=lossless&width=289&height=585" height=500 width=245>
-    <img src="https://media.discordapp.net/attachments/1209744304000737312/1229074160517382164/image.png?ex=662e5b82&is=661be682&hm=ddc12bcf25b5a4dc32b4fa1c1f5984bcb49446c6d5b343ae18426b4b19c2fa02&=&format=webp&quality=lossless&width=173&height=350" height=500 width=245>
+    <img src="https://cdn.discordapp.com/attachments/1209744304000737312/1229074160517382164/image.png?ex=662e5b82&is=661be682&hm=ddc12bcf25b5a4dc32b4fa1c1f5984bcb49446c6d5b343ae18426b4b19c2fa02&" height=500 width=245>
+    <img src="https://cdn.discordapp.com/attachments/1209744304000737312/1229077145712590928/image.png?ex=662e5e4a&is=661be94a&hm=9be531ba7643463c2aa3690b9a9928e56fbff412126e501ebb5cb5cd2f82a980&" height=500 width=245>
+    
+
 </div>
 
 - FE Github https://github.com/2-Nocaffeine/Frontend
