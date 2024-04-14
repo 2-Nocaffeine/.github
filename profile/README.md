@@ -98,5 +98,6 @@ https://docs.google.com/spreadsheets/d/1JiUEaJEgHRNInsHNYELBXOH42THX2_3EkwaM6tyv
 ### 문도연
 - 회원 및 시큐리티
 - 장바구니 및 좋아요
+- 리뷰
 
 <br>
