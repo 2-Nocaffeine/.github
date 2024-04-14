@@ -72,24 +72,30 @@ https://docs.google.com/spreadsheets/d/1JiUEaJEgHRNInsHNYELBXOH42THX2_3EkwaM6tyv
 ## 역할 분담
 
 ### 황성철
-
+- 퍼블리싱
+- 메인/상품/카테고리
 
 
 <br>
 
 ### 이서용
-
+- 퍼블리싱
+- 회원 및 로그인
 
 
 <br>
 
 ### 김가민
-
+- 주문
+- 특가 및 카테고리
+- 데이터 적재
 
 
 <br>
 
 ### 김선욱
+- 상품
+- CI/CD
 
 
 
@@ -97,6 +103,8 @@ https://docs.google.com/spreadsheets/d/1JiUEaJEgHRNInsHNYELBXOH42THX2_3EkwaM6tyv
 <br>
 
 ### 문도연
+- 회원 및 시큐리티
+- 장바구니 및 좋아요
 
 
 <br>
