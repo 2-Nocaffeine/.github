@@ -70,7 +70,7 @@ https://docs.google.com/spreadsheets/d/1JiUEaJEgHRNInsHNYELBXOH42THX2_3EkwaM6tyv
 <br>
 
 ## ⚙ 아키텍처
-<img src="https://media.discordapp.net/attachments/1209744304000737312/1229064514880667689/image.png?ex=662e5287&is=661bdd87&hm=e65abb308008d27d65f4ecd5fd20f53b7ec8a10370ac4a198b2eee65c01cd64c&=&format=webp&quality=lossless">
+![KakaoTalk_20240624_100504562](https://github.com/2-Nocaffeine/Frontend-noCaffeine/assets/121328409/64360aca-80d8-4503-9d23-bdee1da8b0aa)
 
 <br>
 
