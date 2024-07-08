@@ -128,6 +128,8 @@ https://docs.google.com/spreadsheets/d/1JiUEaJEgHRNInsHNYELBXOH42THX2_3EkwaM6tyv
 - 퍼블리싱
 - 회원 및 로그인
 - 좋아요
+- 특가
+- 상품주문
 
 
 ### 김가민
